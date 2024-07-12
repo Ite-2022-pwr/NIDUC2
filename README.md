@@ -6,3 +6,4 @@ Informatyka techniczna, semestr 4, lato 2024
 
 - [Miłosz Bedryło, Paulina Korus, Artur Kręgiel](https://github.com/Ite-2022-pwr/sem4-niduc2-proj-pk-ak-mb)
 - [Małgorzata Skowron, Krystyna Nowak, Dominik Pokrzywa](https://github.com/Ite-2022-pwr/sem4-niduc2-dp-ms-kn)
+- [Marek Tutka, Mateusz Głuchowski](https://github.com/Ite-2022-pwr/sem4-niduc2-proj-mt-mg)
